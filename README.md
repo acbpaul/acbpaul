@@ -24,7 +24,8 @@
 
 <br/>
 
-![Adriano github stats](https://github-readme-stats.vercel.app/api?username=acbpaul&show_icons=true&hide_border=true)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=acbpaul&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=acbpaul&langs_count=5&theme=tokyonight)]()
 
 <a href="https://github.com/acbpaul">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=acbpaul&theme=buefy&show_icons=true" />
